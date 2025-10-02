@@ -460,4 +460,3 @@ Contributions welcome! Please open an issue or PR.
 - [Next.js on AWS](https://opennext.js.org/aws/v2/advanced/architecture)
 - [Terraform AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 - [AWS Lambda Best Practices](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
-# terraform-aws-nextjs-opennext
