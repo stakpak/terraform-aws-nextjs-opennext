@@ -26,10 +26,10 @@ Production-ready Terraform module for deploying Next.js applications to AWS usin
        ▼
 ┌─────────────────────────────────────────┐
 │         CloudFront CDN                  │
-│  ┌──────────────────────────────────┐  │
-│  │  Custom Domain (Optional)        │  │
-│  │  SSL/TLS Certificate             │  │
-│  └──────────────────────────────────┘  │
+│  ┌──────────────────────────────────┐   │
+│  │  Custom Domain (Optional)        │   │
+│  │  SSL/TLS Certificate             │   │
+│  └──────────────────────────────────┘   │
 └────┬────────────┬──────────────┬────────┘
      │            │              │
      ▼            ▼              ▼
