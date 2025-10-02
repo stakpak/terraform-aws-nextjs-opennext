@@ -2,6 +2,8 @@
 
 Production-ready Terraform module for deploying Next.js applications to AWS using the OpenNext architecture. This module creates a serverless infrastructure with CloudFront, Lambda, S3, and other AWS services optimized for Next.js applications.
 
+> **Created and maintained by [Stakpak Agent](https://github.com/stakpak/agent)** - A terminal-native DevOps Agent built for operations & infrastructure automation.
+
 ## Features
 
 - ✅ **Flexible DNS Configuration**: Support for Route53, external DNS providers (Cloudflare, etc.), or CloudFront-only deployments
